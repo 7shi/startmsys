@@ -1,3 +1,5 @@
+/* public domain */
+
 #include <windows.h>
 
 int main() {
