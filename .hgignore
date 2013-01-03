@@ -1,0 +1,4 @@
+syntax: glob
+*.o
+*.exe
+msys.ico
