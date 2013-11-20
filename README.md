@@ -1,3 +1,3 @@
-Windows 7/8‚ÅMinGW(mintty)‚ÌƒVƒ‡[ƒgƒJƒbƒg‚ğƒ^ƒXƒNƒo[‚É’u‚­‚½‚ß‚Ìƒ‰ƒ“ƒ`ƒƒ[‚Å‚·B
+Windows 7/8ã§MinGW(mintty)ã®ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆã‚’ã‚¿ã‚¹ã‚¯ãƒãƒ¼ã«ç½®ããŸã‚ã®ãƒ©ãƒ³ãƒãƒ£ãƒ¼ã§ã™ã€‚
 
-è‡‚Í[Wiki](https://bitbucket.org/7shi/startmsys/wiki)‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢B
+æ‰‹é †ã¯[Wiki](https://bitbucket.org/7shi/startmsys/wiki)ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚
